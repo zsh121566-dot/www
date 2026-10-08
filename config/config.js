@@ -1,6 +1,6 @@
 var config = {
     /* Demo profile data for the template. Replace as needed. */
-    name: "Shirong Lu",
+    name: "Zhang Shuhao ",
     sex: "Backend / Systems",
     age: "Shanghai, China",
     phone: '<a href="https://github.com/happysnaker" target="_blank">github.com/happysnaker</a>',
